@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=DevanshuSawarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Welcome to my GitHub profile! I'm Aryan Paratakke, a passionate learner pursuing a BTech degree in Computer Science. I love coding and believe it's an art that allows me to shape the digital world. I'm constantly expanding my knowledge and skills, embracing new technologies, and exploring the endless possibilities of code. Let's connect and learn together in this exciting world of programming!<br>
+Welcome to my GitHub profile! I'm Devanshu Sawarkar, a passionate learner pursuing a BTech degree in Computer Science. I love coding and believe it's an art that allows me to shape the digital world. I'm constantly expanding my knowledge and skills, embracing new technologies, and exploring the endless possibilities of code. Let's connect and learn together in this exciting world of programming!<br>
 
 
 ## 🌐 Socials:
