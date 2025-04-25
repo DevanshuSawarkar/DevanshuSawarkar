@@ -2,6 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=DevanshuSawarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshusawarkar&label=Profile%20views&color=0e75b6&style=flat" alt="devanshusawarkar" /> </p>
+
 # 💫 About Me:
 Welcome to my GitHub profile! I'm Devanshu Sawarkar, a passionate learner pursuing a BTech degree in Computer Science. I love coding and believe it's an art that allows me to shape the digital world. I'm constantly expanding my knowledge and skills, embracing new technologies, and exploring the endless possibilities of code. Let's connect and learn together in this exciting world of programming!<br>
 
